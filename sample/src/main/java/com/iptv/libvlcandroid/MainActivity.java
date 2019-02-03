@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements IVLCVout.OnNewVid
     private static final boolean USE_SURFACE_VIEW = true;
     private static final boolean ENABLE_SUBTITLES = true;
     private static final String TAG = "JavaActivity";
-    private static final String SAMPLE_URL = "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_640x360.m4v";
+    private static final String SAMPLE_URL = "https://nl.stream.fushaar.com/media/23956/23956.mp4";
     private static final int SURFACE_BEST_FIT = 0;
     private static final int SURFACE_FIT_SCREEN = 1;
     private static final int SURFACE_FILL = 2;
